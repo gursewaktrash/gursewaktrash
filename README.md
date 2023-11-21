@@ -1,5 +1,14 @@
-### Hi there 👋
+👩🏻‍💻 **Crafting:** Recent CS Graduate
 
+⚙️ **Languages:** HTML, CSS, JavaScript, Java, C++
+
+📐 **Frameworks:** Bootstrap, Tailwind
+
+📚 **Libraries:** React
+
+🛠️ **Tools:** Git, Figma, Andriod Studio, Node
+
+📮 **Ping Me:** <gursewakhere@gmail.com>
 <!--
 **gursewaktrash/gursewaktrash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
