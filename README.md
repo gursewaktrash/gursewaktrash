@@ -1,12 +1,12 @@
 👩🏻‍💻 **Crafting:** Recent CS Graduate
 
-⚙️ **Languages:** HTML, CSS, JavaScript, Java, C++
+⚙️ **Languages:** HTML, CSS, JavaScript, Java, Swift, C++
 
-📐 **Frameworks:** Bootstrap, Tailwind
+📐 **Frameworks:** Bootstrap, NextJS, Tailwind
 
-📚 **Libraries:** React
+📚 **Libraries:** React, Lucide, NextAuth, 
 
-🛠️ **Tools:** Git, Figma, Andriod Studio, Node
+🛠️ **Tools:** Git, VSCode, Figma, Andriod Studio, Xcode, Node
 
 📮 **Ping Me:** <gursewakhere@gmail.com>
 <!--
